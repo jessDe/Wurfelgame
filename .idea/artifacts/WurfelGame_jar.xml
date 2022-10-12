@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WurfelGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WurfelGame_jar</output-path>
+    <root id="archive" name="WurfelGame.jar">
+      <element id="module-output" name="WurfelGame" />
+    </root>
+  </artifact>
+</component>
